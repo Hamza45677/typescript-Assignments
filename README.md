@@ -1,2 +1,2 @@
 # typescript-Assignments
-typescript Assignments 
+typescript Assignment Q1 
